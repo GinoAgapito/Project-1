@@ -1,8 +1,6 @@
-# PROJECT 1 Documentation
+# STEP 1 — INSTALLING APACHE AND UPDATING THE FIREWALL
 
-## STEP 1 — INSTALLING APACHE AND UPDATING THE FIREWALL
-
-### Install Apache using Ubuntu’s package manager ‘apt’
+## Install Apache using Ubuntu’s package manager ‘apt’
 
 Run the commands below inside your Ubuntu instance via ssh command line
 ```
@@ -13,7 +11,7 @@ sudo apt update
 sudo apt install apache2
 ```
 
-### Verify that apache2 is running as a Service in our OS
+## Verify that apache2 is running as a Service in our OS
 
 ```
 sudo systemctl status apache2
@@ -35,6 +33,4 @@ Validate if Apache HTTP server can respond to requests from the Internet.
 3. It is now good if you can access it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![apache browser](./images/Apache%20browser.png) 
-
-## STEP 2 — INSTALLING MYSQL
 
