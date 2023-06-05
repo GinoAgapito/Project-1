@@ -1,2 +1,2 @@
 # project-1
-Documentation for project-1
+Web Stack implementation 
