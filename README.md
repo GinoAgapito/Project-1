@@ -1,2 +1,3 @@
 # project-1
-Web Stack implementation 
+LAMP Stack Implementation
+Linux - Apache - MySQL - PHP
